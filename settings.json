@@ -1,0 +1,8 @@
+{
+	"IAM_TOKEN":"<Enter>",
+	"folder_id":"<Enter>",
+	"target_language":"ru",
+	"source_language":"en",
+	"file_name":"jsonfile",
+	"extension":".json"
+}
